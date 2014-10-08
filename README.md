@@ -26,6 +26,7 @@ press and hold 'E' or right-mouse click - grapple 'blocks'(large thin blocks on 
 left-mouse click - fire lasers/homing rockets - if ship hit will get a confirm 'beep' - if player sitting on the terrain below firing up, lasers/rockets currently collide/explode with terrain
 
 '1' - choose lasers
+
 '2' - choose rockets - rockets will give a confirm 'beep' when player reticle is pointing at a target ship within range and will home in on target for 10 seconds before self-destructing.
 
 'C' - accelerate down
@@ -49,4 +50,10 @@ Looking to actively improve the game, please provide feedback if further suggest
 Credits:
 
 Background music - Tribal Tension (Incoming) by LE-SIUL
+
 http://www.newgrounds.com/audio/listen/588982
+
+Earlier games development
+
+https://code.google.com/p/sqlitebot/wiki/sqlitebotHome
+
