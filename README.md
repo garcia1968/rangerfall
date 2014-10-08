@@ -1,7 +1,7 @@
 rangerfall
 ==========
 
-pc game - grapple hook + space combat
+browser/pc game - grapple hook + space combat
 
 Looking for feedback on a beginning sketch demo(unity) for this game.  Started out with a first-person grappling hook mechanic and started adding space combat elements to it, currently set up as more of a trench run over terrain with two fleets cycling over the same ground in opposite directions.
 
@@ -25,8 +25,8 @@ press and hold 'E' or right-mouse click - grapple 'blocks'(large thin blocks on 
 
 left-mouse click - fire lasers/homing rockets - if ship hit will get a confirm 'beep' - if player sitting on the terrain below firing up, lasers/rockets currently collide/explode with terrain
 
-#1 - choose lasers
-#2 - choose rockets - rockets will give a confirm 'beep' when player reticle is pointing at a target ship within range and will home in on target for 10 seconds before self-destructing.
+'1' - choose lasers
+'2' - choose rockets - rockets will give a confirm 'beep' when player reticle is pointing at a target ship within range and will home in on target for 10 seconds before self-destructing.
 
 'C' - accelerate down
 
@@ -45,3 +45,8 @@ There are yellow glowing pickup crates that will move towards the player when wi
 Ships initially have shields which very slowly regenerate, once shields are down further damage is taken until the ship is destroyed.
 
 Looking to actively improve the game, please provide feedback if further suggestions or ideas on improving the mechanics or gameplay in later versions.
+
+Credits:
+
+Background music - Tribal Tension (Incoming) by LE-SIUL
+http://www.newgrounds.com/audio/listen/588982
