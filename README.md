@@ -3,7 +3,7 @@ rangerfall
 
 browser/pc game - grapple hook + space combat
 
-Looking for feedback for this game to improve play and generate interest.  Started out with a first-person grappling hook mechanic and started adding space combat elements to it, currently set up as a run over terrain with two fleets cycling over the same ground in opposite directions.
+Looking for feedback for this game ( send email to rangerfall2014@gmail.com ) to improve play and generate interest.  Started out with a first-person grappling hook mechanic and started adding space combat elements to it, currently set up as a run over terrain with two fleets cycling over the same ground in opposite directions.
 
 PC download links below for larger screen resolutions,etc.  If interested in other game configurable options for playtesting, send me a message.
 
