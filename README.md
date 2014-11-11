@@ -8,7 +8,7 @@ Looking for feedback for this game to improve play and generate interest.  Start
 PC download links below for larger screen resolutions,etc.  If interested in other game configurable options for playtesting, send me a message.
 
 Browser
-http://ratingsbay.com/unity/ranger.html
+http://www.newgrounds.com/portal/view/646963
 
 Windows
 https://github.com/garcia1968/rangerfall/raw/master/windows/rangerfall.zip
